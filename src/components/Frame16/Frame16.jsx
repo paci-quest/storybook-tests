@@ -101,7 +101,7 @@ function Frame16(props) {
       </Frame17>
       <Frame18 >
         <FormControl>  
-          <RadioGroup id={radio-group-1} name={radioGroup} aria-label={radioGroup} >
+          <RadioGroup id={"radio-group-1"} name={"radioGroup"} aria-label={"radioGroup"} >
             <FormControlLabel1  control={<Radio color="primary" size="medium" />} label={"Label"} />
             <FormControlLabel2  control={<Radio color="primary" size="medium" />} label={"Label"} />
             <FormControlLabel3  control={<Radio color="primary" size="medium" />} label={"Label"} />
